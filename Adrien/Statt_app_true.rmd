@@ -149,5 +149,8 @@ Eccueils à éviter :
 - Prendre en compte des variables peu pertinentes, donnerait une sur prédiction des fraudes. 
 - Critère trop strict => sous - prédiction. 
 
+```{r}
+print("hello")
+```
 
 
